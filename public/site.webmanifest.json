@@ -1,0 +1,13 @@
+{
+  "name": "DomainDeco",
+  "short_name": "DomainDeco",
+  "description": "All-in-one platform that offers domain tools and development services specifically tailored for domain investors. We provide comprehensive solutions for managing, tracking, and expanding domain portfolios.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#3f76ff",
+  "icons": [
+    { "src": "/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
